@@ -1,4 +1,4 @@
-# MangaStore - E-Commerce Project README
+# MangaStore - E-Commerce Project
 
 ## Introduction
 
