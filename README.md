@@ -14,7 +14,7 @@ Welcome to MangaStore, a basic e-commerce project built using React and Redux. T
 ## Technologies Used
 
 - **React**: Frontend UI library for building user interfaces.
-- **Redux**: State management library for managing application state.
+- **Redux-toolkit**: State management library for managing application state.
 - **JSON-server**: Lightweight JSON-based REST API server used for serving local data.
 - **JavaScript**: Programming language for frontend logic.
 - **HTML/CSS**: Markup and styling for the user interface.
@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 5. Start the React application:
 
     ```
-    npm start
+    npm run dev
     ```
 
 6. Open your browser and navigate to `http://localhost:5173` to view the MangaStore application.
@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 - **src**: Contains the source code for the React application.
   - **components**: Contains reusable UI components.
-  - **redux**: Contains Redux actions, reducers, and store configuration.
+  - **redux-toolkit**: Contains Redux actions, reducers, and store configuration.
   - **pages**: Contains React components for different pages (e.g., ProductListingPage, CartPage).
   - **utils**: Contains utility functions used across the application.
 - **db.json**: Contains sample data for manga comics.
