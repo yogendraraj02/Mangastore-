@@ -7,7 +7,7 @@ Welcome to MangaStore, a basic e-commerce project built using React and Redux. T
 ## Features
 
 1. **Product Listing**: View a list of manga comics available for purchase.
-2. **Sorting**: Sort manga comics based on various criteria such as price, popularity, etc.
+2. **Sorting**: Sort manga comics based on various criteria such as price,alphabetic order, etc.
 3. **Searching**: Search for specific manga titles within the store.
 4. **Cart Management**: Add manga comics to the cart, adjust quantities, and remove items.
 
